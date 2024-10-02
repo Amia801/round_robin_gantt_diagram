@@ -20,8 +20,6 @@ color_map = {
     'G': 'purple'
 }
 
-# FILEPATH: /d:/CODES/jupyter/123.ipynb
-
 # Create a figure and axis
 fig, ax = plt.subplots(figsize=(10, 6))
 
